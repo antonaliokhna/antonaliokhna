@@ -6,7 +6,7 @@
 
 ### Connect with me:
 <div id="badge-contact">
-  <a href="https://www.linkedin.com/in/anton-aliokhna-6b4888208">
+  <a href="https://www.linkedin.com/in/antonaliokhna/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/antonaliokhna">
