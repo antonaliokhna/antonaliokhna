@@ -1,6 +1,6 @@
 ### Hi there, i'am IOS developer from Belarus 👋
 
-- 🔭 Keen software developer with 1.5+ years of experience in commercial software development.
+- 🔭 Keen software developer with 3.5+ years of experience in commercial software development (Of which 2+ years in IOS). 
 - 🌱 I’m сurrently deepening my knowledge of IOS development.
 - 🍏 I am constantly striving to learn new technologies and looking for ways to improve my skills.
 
